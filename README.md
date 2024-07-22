@@ -1,8 +1,10 @@
-### Olá! 👋 Eu sou o Wellington Ferreira
+# Olá! 👋 Eu sou o Wellington Ferreira
 
 ## Biografia
 
 Sempre quis trabalhar com programação, mas acabei desistindo na época por achar que eu não ia conseguir aprender, acabei me formando na área de Logística e depois fiz pós-graduação em Gestão de Pessoas. Não estava feliz na área que eu tinha me formado, então na semana do meu aniversário de 30 anos, conversei com a minha esposa sobre mudar de área e ela me deu a maior força, sei que não vai ser fácil, mas estou disposto a dar o meu melhor. E hoje com 32 anos sou um desenvolvedor em desenvolvimento.
+
+### Obs: Meu antigo Github foi hackeado, então tive que começar tudo de novo 😞
 
 <a href="https://github.com/Wellingtonfs-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wellingtonfs-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -21,7 +23,6 @@ Sempre quis trabalhar com programação, mas acabei desistindo na época por ach
   </a>
 </p>
 
-# Obs: Meu antigo github foi hackeado
 
 
  
