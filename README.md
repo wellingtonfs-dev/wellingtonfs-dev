@@ -19,7 +19,7 @@ Sempre quis trabalhar com programação, mas acabei desistindo na época por ach
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,js,python,nodejs,dotnet,html,css,mysql,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,cs,js,python,typescript,nodejs,dotnet,html,css,react,mysql,git,github" />
   </a>
 </p>
 
